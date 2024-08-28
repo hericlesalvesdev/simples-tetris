@@ -29,7 +29,6 @@ então tive que pesquisar bastante sobre conceitos que no qual não tinha visto 
 
 <h3>Agradeço pela compreensão e atenção de todos :chart_with_upwards_trend: :technologist:</h3>
 
-<h3>Screenshot do projeto</h3>
-![Simples tetris 28_08_2024 12_22_56](https://github.com/user-attachments/assets/d5b9d931-d1f6-4b28-9d2f-2fd1330c573e)
+
 
 
